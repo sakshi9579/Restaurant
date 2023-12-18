@@ -1,0 +1,2 @@
+# Restaurant
+static website
